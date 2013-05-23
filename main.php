@@ -9,7 +9,7 @@ $cb = \Codebird\Codebird::getInstance();
 $cb->setToken('your key', 'your key');
 
 $params = array(
-                'screen_name' => 'about_hiroppy',
+                'screen_name' => 'your screen_name',
                 'count' => 10
                 );
 
